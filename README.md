@@ -24,7 +24,7 @@ Tkinter is Python’s standard GUI library used for building cross-platform desk
 - High-DPI scaling  
 - Fully customizable modern widgets  
 
-Together, they ensure a smooth UI experience on **Windows**, **macOS**, and **Linux**.
+Together, they ensure a smooth UI experience on **Windows**, **macOS** and **Linux**.
 
 | Component | Description |
 |------------|--------------|
