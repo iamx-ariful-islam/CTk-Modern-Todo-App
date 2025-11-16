@@ -64,7 +64,7 @@ pip install -r requirements.txt
 sudo pip install -r requirements.txt
 ```
 
-### Step3. Run the Application
+### Step 3. Run the Application
 ```bash
 python main.py
 ```
